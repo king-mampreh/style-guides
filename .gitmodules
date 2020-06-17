@@ -1,0 +1,3 @@
+[submodule "easydox"]
+	path = easydox
+	url = https://github.com/king-mampreh/easydox.git
